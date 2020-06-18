@@ -7,6 +7,13 @@ namespace UbuntuBot
 {
     class Program
     {
+        // https://docs.docker.com/engine/install/ubuntu/
+        // https://docs.docker.com/compose/install/
+        // https://github.com/iksergey/UbuntuBot
+        // https://hub.docker.com/u/iksergey
+        // docker pull iksergey/ubuntubot
+
+
         static void Main()
         {
             Console.WriteLine("Start Application");
