@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UbuntuBot": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

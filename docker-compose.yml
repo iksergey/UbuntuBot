@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ubuntubot:
+    image: ${DOCKER_REGISTRY-}ubuntubot
+    build:
+      context: .
+      dockerfile: UbuntuBot/Dockerfile
